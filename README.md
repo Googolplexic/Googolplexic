@@ -1,4 +1,4 @@
-# ✨ www.colemanlai.com ✨
+# ✨[colemanlai.com](https://www.colemanlai.com)✨
 ## Hi there 👋
 
 <!--
