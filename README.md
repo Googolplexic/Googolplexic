@@ -3,10 +3,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Googolplexic/count.svg?"  />
-</div>
-
+![](https://komarev.com/ghpvc/?username=Googolplexic)
 ###
 
 <div align="center">
