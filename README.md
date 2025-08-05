@@ -1,9 +1,9 @@
 # ✨[colemanlai.com](https://www.colemanlai.com)✨
-## Hi there! 👋
+## Hi there!👋![](https://komarev.com/ghpvc/?username=Googolplexic)
 
 ###
 
-![](https://komarev.com/ghpvc/?username=Googolplexic)
+
 ###
 
 <div align="center">
